@@ -238,11 +238,7 @@ export default {
     .datepicker {
 
         .datepicker-wrap {
-            position: fixed;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            width: 100%;
+            width: 500px;
             padding-bottom: 20px;
             z-index: 46;
             background-color: #fff;
