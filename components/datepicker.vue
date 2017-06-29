@@ -238,8 +238,9 @@ export default {
     .datepicker {
 
         .datepicker-wrap {
-            width: 500px;
+            width: 400px;
             padding-bottom: 20px;
+            border: 1px solid #999;
             z-index: 46;
             background-color: #fff;
 
@@ -248,7 +249,7 @@ export default {
                 font-size: 16px;
                 text-align: center;
                 line-height: 44px;
-                border-bottom: 1px solid #ff0;
+                border-bottom: 1px solid #f00;
 
                 .datepicker-header-btn-pre {
                     float: left;
@@ -281,7 +282,7 @@ export default {
                                 text-align: center;
                                 &.active, &.active:hover {
                                     color: #fff;
-                                    background: #ff0;
+                                    background: #f00;
                                 }
                                 &.disable {
                                     color: #999;
