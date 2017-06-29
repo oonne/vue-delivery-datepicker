@@ -1,7 +1,7 @@
 # vue-delivery-datepicker
 A delivery date picker component of Vue 2.x
 
-### Deom
+### Demo
 [Demo](https://oonne.github.io/vue-delivery-datepicker/)
 
 
